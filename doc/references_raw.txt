@@ -1,0 +1,11 @@
+References
+
+Elliott, J., D. Deryng, C. Mueller, K. Frieler, M. Konzmann, D. Gerten, M. Glotter, M. Flrke, Y. Wada, N. Best, S. Eisner, B.M. Fekete, C. Folberth, I. Foster, S.N. Gosling, I. Haddeland, N. Khabarov, F. Ludwig, Y. Masaki, S. Olin, C. Rosenzweig, A.C. Ruane, Y. Satoh, E. Schmid, T. Stacke, Q. Tang, and D. Wisser. 2014. "Constraints and potentials of future irrigation water availability on agricultural production under climate change." Proceedings of the National Academy of Sciences 111:3239-3244. 
+
+Mueller, C., and R.D. Robertson. 2014. "Projecting future crop productivity for global economic modeling." Agricultural Economics 45:37-50.
+
+Nelson, G.C., H. Valin, R.D. Sands, P. Havlik, H. Ahammad, D. Deryng, J. Elliott, S. Fujimori, T. Hasegawa, E. Heyhoe, P. Kyle, M.V. Lampe, H. Lotze-Campen, D.M. dCroz, H.v. Meijl, D.v.d. Mensbrugghe, C. Mueller, A. Popp, R. Robertson, S. Robinson, E. Schmid, C. Schmitz, A. Tabeau, and D. Willenbockel. 2014. "Climate change effects on agriculture: Economic responses to biophysical shocks." Proceedings of the National Academy of Sciences 111:3274-3279.
+
+Rosenzweig, C., J. Elliott, D. Deryng, A.C. Ruane, C. Mueller, A. Arneth, K.J. Boote, C. Folberth, M. Glotter, N. Khabarov, K. Neumann, F. Piontek, T.A.M. Pugh, E. Schmid, E. Stehfest, H. Yang, and J.W. Jones. 2014. "Assessing agricultural risks of climate change in the 21st century in a global gridded crop model intercomparison." Proceedings of the National Academy of Sciences 111:3268-3273.
+
+Villoria N.B, J. Elliot , C. Mueller, J. Shin, L. Zhao. C. Song. (2014). Rapid aggregation of globally gridded crop model outputs to facilitate cross-disciplinary analysis of climate change impacts in agriculture. Under Review. Data tool accessible at url: https://mygeohub.org/tools/agmip/

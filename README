@@ -1,0 +1,7 @@
+The Climate Scenario Aggregator (CSA) tool seeks to reduce the technical barriers to access fundamental climate data through a web-based facility that facilitates downloading and aggregating global grids (0.5 degree) of bias-corrected, monthly mean historical and future temperature and precipitation from the five General Circulation Models (GCMs) used by the Inter-Sectoral Impacts Model Intercomparison Project (ISI-MIP)
+
+The CSA tool is fully documented in Villoria et al. (2016) and the accompanying user manual (both in the documents section of the tool). Users are encouraged to read the main article and the citations therein before using the data delivered by this tool.
+
+To run the tool, log in MyGeoHub (mygeohub.org) and then click "Launch Tool" on the CSA tool landing page (https://mygeohub.org/tools/climatetool)
+
+This tool requires the Hub submit library, which is already installed in the HUBzero environment. In addition, it requires the setup and configuration of a Globus Online endpoint on the hub server that can be used to connect to the ISIMIP data archive. If developers want to run the CSA tool for testing purpose, they can first launch the HUBzero workspace (https://mygeohub.org/tools/workspace), and then checkout the source code from the SVN repository (https://mygeohub.org/tools/climatetool/svn/trunk). Users may need to be granted the permission to access the workspace and code repository. The tool compilation or execution works best on Debian GNU/Linux 7 with JDK 1.6, R 3.1.1 and Python 2.7.3.
